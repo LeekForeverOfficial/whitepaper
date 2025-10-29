@@ -24,6 +24,16 @@ The complete English whitepaper covering all aspects of the LeekForever project,
 - 治理框架
 - 路线图和风险管理
 
+### 한국어 버전
+📖 **[LeekForever (리크포에버): 완전한 백서 V1.0](./WHITEPAPER_KO.md)**
+
+LeekForever 프로젝트의 모든 측면을 다루는 완전한 한국어 백서:
+- 핵심 철학 및 비전
+- 토큰경제학 모델
+- 기술 아키텍처
+- 거버넌스 프레임워크
+- 로드맵 및 위험 관리
+
 ---
 
 ## 🌐 Official Resources
