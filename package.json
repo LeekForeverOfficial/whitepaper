@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pancakeswap/v3-sdk": "^3.9.7"
+  }
+}
